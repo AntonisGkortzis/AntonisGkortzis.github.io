@@ -13,7 +13,7 @@ Antonios Gkortzis*, Daniel Feitosa, Diomidis Spinellis. <i>18th International Co
 - <b>[VulinOSS: A Dataset of Security Vulnerabilities in Open-source Systems](https://antonisgkortzis.github.io/publication/MSR18)</b><br>
 Antonios Gkortzis, Dimitris Mitropoulos, Diomidis Spinellis. <i>ACM Mining Software Repositories conference (MSR'18)</i><br>
 
-- <b>[An Empirical Analysis of Vulnerabilities in Virtualization Technologies](https://antonisgkortzis.github.io/files/GRS_CloudSPD16)</b><br>
+- <b>[An Empirical Analysis of Vulnerabilities in Virtualization Technologies](https://antonisgkortzis.github.io/publication/GRS_CloudSPD16)</b><br>
 A. Gkortzis, S. Rizou and D. Spinellis. <i>2016 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)</i><br>
 
 {% if author.googlescholar %}

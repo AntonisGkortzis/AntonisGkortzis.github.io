@@ -1,11 +1,12 @@
 ---
-title: "An Empirical Analysis of Vulnerabilities in Virtualization Technologies"
+title: "A Double-Edged Sword? Software Reuse and Potential Security Vulnerabilities"
 collection: publications
 permalink: /publication/GFS_ICSR_19
 venue: "Proceedings of the 18th International Conference on Software and Systems Reuse (ICSR '19)"
-date: 2016-12-15
+date: 2019-06-26
 paperurl: "https://antonisgkortzis.github.io/files/GFS_ICSR_19.pdf"
-citation: "A. Gkortzis, S. Rizou and D. Spinellis, 'An Empirical Analysis of Vulnerabilities in Virtualization Technologies,' 2016 IEEE International Conference on Cloud Computing Technology and Science (CloudCom), 2016, pp. 533-538, doi: 10.1109/CloudCom.2016.0093."
+citation: "Antonios Gkortzis, Daniel Feitosa, Diomidis Spinellis, 'A double-edged sword? software reuse and potential security vulnerabilities', Publisher: Springer, Cham, pages: 187-203
+https://doi.org/10.1007/978-3-030-22888-0_13"
 ---
 
 
