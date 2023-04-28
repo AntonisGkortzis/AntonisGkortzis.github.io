@@ -1,5 +1,5 @@
 ---
-title: "Team coach"
+title: "Team coach in Software Architecture & Software Patterns"
 collection: teaching
 type: "Master courses"
 permalink: /teaching/rug-master
@@ -8,7 +8,6 @@ date: 2015-01-01
 location: "Groningen, Netherlands"
 ---
 
-Responsibilities
-======
+__Responsibilities__<br>
 * Coaching groups in Software Architecture
 * Coaching groups in Software Patterns

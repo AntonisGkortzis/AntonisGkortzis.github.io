@@ -1,5 +1,5 @@
 ---
-title: "Lab instructor / Team coach"
+title: "Lab instructor in Imperative Programming with C / Team coach in Software Engineering"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/rug-bachelor
@@ -8,7 +8,6 @@ date: 2014-01-01
 location: "Groningen, Netherlands"
 ---
 
-Responsibilities
-======
+__Responsibilities__<br>
 * Lab instructor in Imperative Programming with C
 * Coaching groups in Software Engineering large-scale assignments
