@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/aueb_seip
 venue: "Department of Management Science and Technology, Athens University of Economics and Business"
-date: 2017_2021
+date: 2021-01-01
 location: "Athens, Greece"
 ---
 
-Lab Instructor in Software Engineering in Practice major course.
+Lab Instructor in Software Engineering in Practice major course for the Spring semesters of 2017 to 2021.
 
 Responsibilities
 ======

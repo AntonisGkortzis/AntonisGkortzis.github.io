@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/rug-bachelor
 venue: "University of Groningen"
-date: 2014_2015
+date: 2014-01-01
 location: "Groningen, Netherlands"
 ---
 

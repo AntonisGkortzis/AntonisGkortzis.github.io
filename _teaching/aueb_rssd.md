@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/aueb_rssd
 venue: "Department of Management Science and Technology, Athens University of Economics and Business"
-date: 2017
+date: 2017-01-01
 location: "Athens, Greece"
 ---
 
