@@ -3,7 +3,7 @@ title: "Software reuse cuts both ways: An empirical analysis of its relationship
 collection: publications
 permalink: /publication/jss19-gkortzis_etal
 venue: "Journal of Systems and Software, Volume 172, February 2021, 110653"
-date: 2021-02
+date: 2021-02-01
 paperurl: "https://www2.dmst.aueb.gr/dds/pubs/jrnl/2020-JSS-reuse-vs-vuln/html/GFS20.pdf"
 citation: "Gkortzis, Antonios, Daniel Feitosa, and Diomidis Spinellis. 'Software reuse cuts both ways: An empirical analysis of its relationship with security vulnerabilities.' Journal of Systems and Software 172 (2021): 110653"
 ---
