@@ -7,6 +7,9 @@ author_profile: true
 
 
 ## Security in Software Engineering
+- <b>[Software reuse cuts both ways: An empirical analysis of its relationship with security vulnerabilities](https://antonisgkortzis.github.io/publication/jss19-gkortzis_etal)</b><br>
+Antonios Gkortzis*, Daniel Feitosa, Diomidis Spinellis. <i>Journal of Systems and Software, Volume 172, February 2021, 110653</i><br>
+
 - <b>[A Double-Edged Sword? Software Reuse and Potential Security Vulnerabilities](https://antonisgkortzis.github.io/publication/GFS_ICSR_19)</b><br>
 Antonios Gkortzis*, Daniel Feitosa, Diomidis Spinellis. <i>18th International Conference on Software and Systems Reuse (ICSR '19)</i><br>
 

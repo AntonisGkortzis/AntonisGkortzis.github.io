@@ -98,6 +98,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Scholarships
 ======
-* Currently signed in to 43 different slack teams
+* Marie Skłodowska-Curie fellow, participating in the Software Engineering in Enterprise Cloud Applications (SENECA) EU funded European project (2016-2018)
+
