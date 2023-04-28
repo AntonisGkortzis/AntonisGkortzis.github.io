@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-## Security in Software Engineering
 - <b>[Software reuse cuts both ways: An empirical analysis of its relationship with security vulnerabilities](https://antonisgkortzis.github.io/publication/jss19-gkortzis_etal)</b><br>
 Antonios Gkortzis*, Daniel Feitosa, Diomidis Spinellis. <i>Journal of Systems and Software, Volume 172, February 2021, 110653</i><br>
 
